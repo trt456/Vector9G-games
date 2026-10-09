@@ -1,5 +1,5 @@
 {
-   "games": [
-       {"name": "TestGame","folder": "games/test"}
-   ]
+  "games": [
+    { "folder": "test", "name": "Test Game" }
+  ]
 }
